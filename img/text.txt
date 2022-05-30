@@ -1,4 +1,0 @@
-this file will be ignored since now for images 
-
-
-after ignored
