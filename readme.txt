@@ -4,8 +4,9 @@ Learning
 " fhdsjf"  -> doesntt need to use string sign just to make obvious 
 
 commands:
-
+----------------------------
 user-setup:
+---------------
 
 git config --global user.name "name" (add)
 git config --global user.email "email"
@@ -43,7 +44,15 @@ git push -u origin main (initial push)
 git push(to push on main branch --> github/...)
 
 
+igonere files:
+-----------------------
+
+
+
+
+
 Command line :
+---------------------------------
 
 cd .. (previous directory)
 cd /c/..
