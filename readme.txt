@@ -65,10 +65,17 @@ now for local new branch, we have to create new branch on github:
 git push --set-upstream origin 'name'
 
 
+
 merge (commiting sub branch to main) : (have to from that branch)
 ---------------------------------------
 
-git merge "name" (name of the branch which will be pushed to main)
+git merge "name" (name of the branch where it will be pushed to main)
+--------------------------------------------------------------------------
+first -->>> add-> commit-> push sub branch
+	    >>> git merge "name of the branch where it will pushed"
+	    >>> push branch
+second-->>> switch to master
+third -->>> push to update 
 
 
 >>>>>>> sub_01
