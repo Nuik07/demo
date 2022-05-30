@@ -50,6 +50,28 @@ igonere files:
 tocuh .gitignore
 -->> add the files name on gitignore (to ignore updating those )
 
+<<<<<<< HEAD
+=======
+Branch:
+----------------------
+
+git branch (check)
+git checkout -b 'main' (create branch and switch to it)
+git checkout 'name'
+
+now for local new branch, we have to create new branch on github:
+------------------------------------------------------------------
+
+git push --set-upstream origin 'name'
+
+
+merge (commiting sub branch to main) : (have to from that branch)
+---------------------------------------
+
+git merge "name" (name of the branch which will be pushed to main)
+
+
+>>>>>>> sub_01
 Command line :
 ---------------------------------
 
