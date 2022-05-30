@@ -50,7 +50,6 @@ igonere files:
 tocuh .gitignore
 -->> add the files name on gitignore (to ignore updating those )
 
-
 Command line :
 ---------------------------------
 
