@@ -50,6 +50,14 @@ igonere files:
 tocuh .gitignore
 -->> add the files name on gitignore (to ignore updating those )
 
+Branch:
+----------------------
+
+git branch (check)
+git checkout -b 'main' (create branch and switch to it)
+git checkout 'name'
+
+
 
 Command line :
 ---------------------------------
