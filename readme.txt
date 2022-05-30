@@ -47,8 +47,8 @@ git push(to push on main branch --> github/...)
 igonere files:
 -----------------------
 
-
-
+tocuh .gitignore
+-->> add the files name on gitignore (to ignore updating those )
 
 
 Command line :
