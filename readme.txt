@@ -75,7 +75,8 @@ first -->>> add-> commit-> push sub branch
 	    >>> git merge "name of the branch where it will pushed"
 	    >>> push branch
 second-->>> switch to master
-third -->>> push to update 
+third -->>> git merge "name of the branch where it will pushed"
+fourtg-->>> push to update
 
 
 >>>>>>> sub_01
