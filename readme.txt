@@ -59,7 +59,7 @@ git checkout 'name'
 
 now for local new branch, we have to create new branch on github:
 
- git push --set-upstream origin sub_01
+git push --set-upstream origin 'name'
 
 
 
